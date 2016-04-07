@@ -1,2 +1,2 @@
 # ejercicios
-Ejercicios y explicaciones prácticas
+Ejercicios y explicaciones prácticas de Octave
